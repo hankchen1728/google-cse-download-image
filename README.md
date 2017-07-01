@@ -16,7 +16,5 @@ google_api_image_download.py 第10行 **DIR** 請改成自己儲存圖片資料�
 
 ## 參考資料
 [https://stackoverflow.com/questions/22866579/download-images-with-google-custom-search-api](https://stackoverflow.com/questions/22866579/download-images-with-google-custom-search-api)<br>
-[https://stackoverflow.com/questions/6562125/getting-a-cx-id-for-custom-search-google-api-python]
-(https://stackoverflow.com/questions/6562125/getting-a-cx-id-for-custom-search-google-api-python)<br>
-[https://productforums.google.com/forum/#!topic/customsearch/2qilVDaCz0A]
-(https://productforums.google.com/forum/#!topic/customsearch/2qilVDaCz0A)<br>
+[https://stackoverflow.com/questions/6562125/getting-a-cx-id-for-custom-search-google-api-python](https://stackoverflow.com/questions/6562125/getting-a-cx-id-for-custom-search-google-api-python)<br>
+[https://productforums.google.com/forum/#!topic/customsearch/2qilVDaCz0A](https://productforums.google.com/forum/#!topic/customsearch/2qilVDaCz0A)<br>
