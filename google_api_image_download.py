@@ -6,6 +6,7 @@ import json
 Search_engine = input('Enter the search engine to use in your request:')
 api_key = input('Enter your API key:')
 search = input('Enter what you want to search:')
+#DIR請改成要儲存圖片資料夾的路徑
 DIR = '/Users/hankchen/downloads/'
 DIR = os.path.join(DIR,search)
 if not os.path.exists(DIR):
