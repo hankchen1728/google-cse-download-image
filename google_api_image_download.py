@@ -24,14 +24,14 @@ def build_request(startindex,low_range):
         searchType='image',
         safe= 'off',
         lowRange=low_range,
-        highRange=low_range+100
+        highRange=low_range+1
     ).execute()
     return res
 
 for x in range(1,1000,10):
     print("這是第",x,"~",x+9,"結果")
     StartIndex = x%100
-    LowRange = (x//100)*100
+    LowRange = (x//100)*100 -1 
     res = build_request(StartIndex,LowRange)
     count = 0
     for item in res['items']:
